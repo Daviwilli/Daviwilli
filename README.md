@@ -123,7 +123,7 @@ Gosto especialmente de explorar a interseção entre:
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite" />
+<img src="[https://skillicons.dev/icons?i=html,css,react,nodejs,vite](https://github.com/Daviwilli/Web-for-Redes-discipline)" />
 
 </div>
 
