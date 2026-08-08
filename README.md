@@ -226,13 +226,13 @@ Plataforma combinando **dados, inteligência artificial, SQL e computação em n
 
 <td width="50%" valign="top">
 
-### ⚡ Intelligent Automation
+### ⚡ WEB 
 
-Projetos focados em **automação, integração de sistemas, APIs e infraestrutura**.
+Projeto focado em desenvolvimento web
 
 **Stack**
 
-`Python` `Docker` `FastAPI` `AWS`
+ `CSS` `HTML` 
 
 <br>
 
